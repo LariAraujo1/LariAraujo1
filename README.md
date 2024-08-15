@@ -7,15 +7,10 @@ Olá! Me chamo Larissa, tenho 20 anos e sou estudante Análise e Desenvolvimento
 
 ## 🛠 Habilidades
 
-Javascript <br>
-HTML <br>
-CSS <br>
-React <br>
-Node.js <br>
-mySql <br>
-Mariadb <br>
-Mongodb <br>
-
+- 🌐 **Frontend**: JavaScript, HTML, CSS, React
+- 🖥️ **Backend**: Node.js
+- 🗃️ **Banco de Dados**: MySQL, MariaDB, MongoDB
+- 🔍 **Testes**: Postman, ThunderClient
 
 
 ## Sobre Mim
