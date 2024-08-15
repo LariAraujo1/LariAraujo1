@@ -34,7 +34,7 @@ Olá! Me chamo Larissa, tenho 20 anos e sou estudante Análise e Desenvolvimento
 
 ## Projetos em Destaque
 
-### [Projeto de Pesquisa de Pontos de Coleta de Eletrônicos](https://github.com/seuperfil/nome-do-repositorio)
+### [Projeto de Pesquisa de Pontos de Coleta de Eletrônicos](https://github.com/LariAraujo1/walcem-vite-project)
 🌐 Website: [walcem.com](http://reciclagem-walcem.vercel.app/)
 
 Este projeto foi criado para facilitar o descarte consciente de eletrônicos, conectando usuários a pontos de coleta próximos. As principais funcionalidades incluem:
