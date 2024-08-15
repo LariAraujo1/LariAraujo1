@@ -36,6 +36,26 @@ Mongodb <br>
 ⚡️ Adoro livros, animes, documentarios e gatos.
 
 
+
+## Projetos em Destaque
+
+### [Projeto de Pesquisa de Pontos de Coleta de Eletrônicos](https://github.com/seuperfil/nome-do-repositorio)
+🌐 Website: [walcem.com](http://reciclagem-walcem.vercel.app/)
+
+Este projeto foi criado para facilitar o descarte consciente de eletrônicos, conectando usuários a pontos de coleta próximos. As principais funcionalidades incluem:
+
+- 🗺️ **Mapa Interativo**: Mostra pontos de coleta próximos ao usuário e empresas que realizam a coleta.
+- 📰 **Blog Informativo**: Notícias e informações sobre descarte de eletrônicos.
+- 👥 **Sistema de Login e Cadastro**: Seções separadas para usuários e empresas.
+- 🎨 **Design Minimalista**: Focado em reciclagem de eletrônicos e usabilidade.
+
+**Tecnologias utilizadas**:
+- Ferramentas de Teste: Postman, ThunderClient,                          
+- Ferramentas de Prototipagem: Figma, Trello
+- Banco de Dados: MongoDB
+- Backend: Node.js
+- Frontend: HTML, CSS, JavaScript
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LariAraujo1)
 
