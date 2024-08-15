@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu espaço no GitHub 👨‍💻👩‍💻
+# Bem-vindo(a) ao meu GitHub 👩‍💻
 
 
 ## 🌟 Sobre mim
@@ -41,8 +41,8 @@ Mongodb <br>
 
 ## Contato
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22"mailto:contato@seu-usuário-aqui"><img)](https://teams.microsoft.com/_#/school/teams-grid/General?ctx=teamsGrid)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissatamiresar@gmail.com)
 
-![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&]logoColor=white")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-a-871b92308/)
 
 
