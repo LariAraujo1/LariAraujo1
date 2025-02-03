@@ -2,7 +2,7 @@
 
 
 ## 🌟 Sobre mim
-Olá! Me chamo Larissa, tenho 20 anos e sou estudante Análise e Desenvolvimento de Sistemas, além de me especializar em desenvolvimento Full Stack JavaScript. Estou começando minha carreira na programação, com um foco especial em banco de dados. Aqui você encontrará meus materiais de estudo e projetos de aperfeiçoamento pessoal. Sinta-se à vontade para explorar e acompanhar minha jornada!
+Olá! Me chamo Larissa, tenho 20 anos e sou estudante Análise e Desenvolvimento de Sistemas, recentemente finalizei o curso de desenvolvimento Full Stack JavaScript. Estou começando minha carreira na programação, com um foco especial em banco de dados. Aqui você encontrará meus materiais de estudo e projetos de aperfeiçoamento pessoal. Sinta-se à vontade para explorar e acompanhar minha jornada!
 
 
 ## 🛠 Habilidades
